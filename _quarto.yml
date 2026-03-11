@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Jessica Danielle Geiger"
+  site-url: https://danigeiger.github.io
+  favicon: static/images/favicon.ico
+  navbar:
+    right:
+      - href: cgrp_project.qmd
+        text: CGRP Drug Discovery Project
+      - icon: github
+        href: https://github.com/danigeiger
+      - icon: linkedin
+        href: https://www.linkedin.com/in/danielle-geiger-661bb2271/
+
+format:
+  html:
+    theme:
+      - slate
+      - static/css/styles.scss
+    toc: true
+
+
