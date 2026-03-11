@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jessica Geiger",
+    "section": "",
+    "text": "I’m Jessica Geiger, and I am a data scientist and biochemist based in the Bay Area.\nI received my Bachelor’s of Science in Human Physiology with a minor in Biochemistry at University of Oregon in 2020. By the end of my degree I found a strong interest in the interdisciplinary feild of neuroscience and immuneology, particularly related to the migraine brain. I completed my Master’s in Data Science at Eastern University in June 2025. My final project for my master’s was on screening small molecules for invitro candacy for novel therapeudic agents to treat migraines. Click here to view the code that lead up to the final machine learning model and here to run novel moleuclar formulas (SMILES) through the algorithm. Currently, I work as a long-term substitute with a self-contained fourth grade class.\nIf you wish to get in contact with me, feel free to send me an email or reach out on LinkedIn."
+  },
+  {
+    "objectID": "cgrp_project.html",
+    "href": "cgrp_project.html",
+    "title": "CGRP IC50 Prediction Project",
+    "section": "",
+    "text": "🔗 Launch the CGRP IC50 Predictor App"
+  },
+  {
+    "objectID": "cgrp_project.html#project-overview",
+    "href": "cgrp_project.html#project-overview",
+    "title": "CGRP IC50 Prediction Project",
+    "section": "Project Overview",
+    "text": "Project Overview\nThis project explores the use of machine learning to predict inhibitory activity for compounds targeting the Calcitonin Gene-Related Peptide (CGRP) receptor, a key therapeutic target in migraine treatment. Using bioactivity data obtained from the ChEMBL database, I developed a regression model capable of estimating IC50 values for candidate molecules based on their chemical structure.\nThe project integrates cheminformatics and machine learning workflows. Molecular structures are represented using SMILES notation, which are converted into numerical fingerprints that capture chemical features relevant to biological activity. These fingerprints are then used to train a Random Forest regression model capable of predicting inhibitory potency for previously unseen compounds."
+  },
+  {
+    "objectID": "cgrp_project.html#project-components",
+    "href": "cgrp_project.html#project-components",
+    "title": "CGRP IC50 Prediction Project",
+    "section": "Project Components",
+    "text": "Project Components\nThe project is organized into several components that document the workflow from data acquisition through model deployment.\n\nData Analysis and Dataset Preparation\nThe notebook below contains the data collection and exploratory analysis steps. Bioactivity data for CGRP receptor inhibitors was retrieved from ChEMBL and curated to produce a dataset suitable for machine learning analysis. The notebook also includes initial chemical descriptor exploration and data preprocessing.\n🔗 CGRP Analysis Notebook\n\n\nModel Development and Testing\nThis notebook focuses on converting molecular structures into machine-learning features and training predictive models. Molecular fingerprints are generated, the dataset is split into training and testing sets, and multiple models are evaluated to determine which approach best predicts IC50 values.\n🔗 Model Building Notebook\n\n\nModel Optimization\nOnce a baseline model was established, additional hyperparameter tuning was performed to improve predictive performance. Grid search techniques were used to explore parameter combinations for several tree-based models, leading to the final Random Forest model used in the application.\n🔗 Model Hypertuning Notebook\n\n\nInteractive Prediction Application\nTo make the model accessible to users without programming experience, the final model was deployed as an interactive Streamlit application. The app allows users to upload molecules in SMILES format and receive predicted IC50 values. This interface demonstrates how machine learning models developed in a research workflow can be translated into practical screening tools.\n🔗 Continue to README.md for more on the project\n🔗 View Application Code"
+  }
+]
