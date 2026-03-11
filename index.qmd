@@ -13,14 +13,19 @@ about:
       href: daniellegeiger99@gmail.com
 ---
 
-I'm Jessica Geiger, and I am a data scientist and biochemist based in the Bay Area.
+I'm Jessica Geiger, a data scientist and biochemist based in the Bay Area.
 
-I received my Bachelor's of Science in Human Physiology with a minor in Biochemistry at University of Oregon
-in 2020. By the end of my degree I found a strong interest in the interdisciplinary feild of neuroscience and
-immuneology, particularly related to the migraine brain. I completed my Master's in Data Science at Eastern University in June
-2025. My final project for my master's was on screening small molecules for invitro candacy for novel therapeudic agents to treat migraines. Click here to view the code that lead up to the final machine learning model and here to run novel moleuclar formulas (SMILES) through the algorithm.   Currently, I work as a long-term substitute with a self-contained fourth grade class.
+I received my Bachelor of Science in Human Physiology with a minor in Biochemistry from the University of Oregon in 2020. During my studies, I developed a strong interest in the interdisciplinary field of neuroscience and immunology, particularly related to the migraine brain.
 
-If you wish to get in contact with me, feel free to send me an [email][contact]
-or reach out on LinkedIn.
+I began working at AstraZeneca in November 2022 in Inhalation Product Development (R&D), where I supported the processing of biologic inhalation therapies in a cleanroom environment. During my time there, I was inspired by the organization’s recognition for implementing AI-driven innovations in pharmaceutical research, which reinforced my interest in applying data science and machine learning to drug discovery.
+
+When the Inhalation Product Development (IPD) department at AstraZeneca relocated to the East Coast, I chose to pursue further training in data science and began a Master's program at Eastern University in August 2022. I completed the program in June 2025. My final project focused on screening small molecules for in vitro candidacy as potential therapeutic agents for migraine treatment using machine learning methods.
+
+You can explore the full machine learning workflow and analysis in the project notebooks on GitHub [here](https://github.com/danigeiger/CGRP_project/tree/main/notebooks).  
+If you'd like to interact with the model directly, you can run novel molecular formulas (SMILES) through the deployed application [here](https://cgrp-ic50-predictor.streamlit.app).
+
+Currently, I work as a long-term substitute teacher in a self-contained fourth-grade classroom. This role has strengthened my communication and adaptability while allowing me to share my enthusiasm for science and problem-solving with students.
+
+If you would like to get in contact, feel free to send me an [email][contact] or reach out on LinkedIn.
 
 [contact]: mailto:daniellegeiger99@gmail.com
