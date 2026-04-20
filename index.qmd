@@ -6,7 +6,7 @@ about:
   template: solana
   links:
     - icon: linkedin
-      href: www.linkedin.com/in/jessica-geiger-661bb2271
+      href: "https://www.linkedin.com/in/jessica-geiger-661bb2271/"
     - icon: flask
       href: https://github.com/danigeiger/CGRP_project
     - icon: envelope
@@ -30,4 +30,4 @@ Currently, I work as a long-term substitute teacher in a self-contained fourth-g
 If you would like to get in contact, feel free to send me an [email][contact] or reach out on LinkedIn [linkedin].
 
 [contact]: mailto:daniellegeiger99@gmail.com
-[linkedin]: www.linkedin.com/in/jessica-geiger-661bb2271
+[linkedin]: https://www.linkedin.com/in/jessica-geiger-661bb2271/
