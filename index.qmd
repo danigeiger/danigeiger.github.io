@@ -6,9 +6,9 @@ about:
   template: solana
   links:
     - icon: linkedin
-      href: https://linkedin.com/in/danielle-geiger-661bb2271/
+      href: www.linkedin.com/in/jessica-geiger-661bb2271
     - icon: flask
-      href: https://github.com/danigeiger/CGRP_gepant_ML_project
+      href: https://github.com/danigeiger/CGRP_project
     - icon: envelope
       href: daniellegeiger99@gmail.com
 ---
@@ -22,10 +22,12 @@ I began working at AstraZeneca in November 2022 in Inhalation Product Developmen
 When the Inhalation Product Development (IPD) department at AstraZeneca relocated to the East Coast, I chose to pursue further training in data science and began a Master's program at Eastern University in August 2022. I completed the program in June 2025. My final project focused on screening small molecules for in vitro candidacy as potential therapeutic agents for migraine treatment using machine learning methods.
 
 You can explore the full machine learning workflow and analysis in the project notebooks on GitHub [here](https://github.com/danigeiger/CGRP_project/tree/main/notebooks).  
+
 If you'd like to interact with the model directly, you can run novel molecular formulas (SMILES) through the deployed application [here](https://cgrp-ic50-predictor.streamlit.app).
 
 Currently, I work as a long-term substitute teacher in a self-contained fourth-grade classroom. This role has strengthened my communication and adaptability while allowing me to share my enthusiasm for science and problem-solving with students.
 
-If you would like to get in contact, feel free to send me an [email][contact] or reach out on LinkedIn.
+If you would like to get in contact, feel free to send me an [email][contact] or reach out on LinkedIn [linkedin].
 
 [contact]: mailto:daniellegeiger99@gmail.com
+[linkedin]: www.linkedin.com/in/jessica-geiger-661bb2271
