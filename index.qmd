@@ -10,7 +10,7 @@ about:
     - icon: flask
       href: https://github.com/danigeiger/CGRP_project
     - icon: envelope
-      href: daniellegeiger99@gmail.com
+      href: mailto:daniellegeiger99@gmail.com
 ---
 
 I'm Jessica Geiger, a data scientist and biochemist based in the Bay Area.
