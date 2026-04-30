@@ -6,7 +6,7 @@ about:
   template: solana
   links:
     - icon: linkedin
-      href: "https://www.linkedin.com/in/jessica-geiger-661bb2271/"
+      href: "https://www.linkedin.com/in/jessica-d-geiger"
     - icon: flask
       href: https://github.com/danigeiger/CGRP_project
     - icon: envelope

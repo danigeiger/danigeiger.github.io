@@ -1,0 +1,15 @@
+---
+title: "Resume"
+---
+
+## Jessica Danielle Geiger
+
+**Data Scientist | Drug Discovery & Machine Learning | Life Sciences**
+
+[Download Resume (PDF)](static/resume/Jessica_Geiger_Data_Science_Resume.pdf){.btn .btn-primary}
+
+[Download Resume (DOCX)](static/resume/Jessica_Geiger_Data_Science_Resume.docx){.btn .btn-secondary}
+
+<br><br>
+
+<iframe src="static/resume/Jessica_Geiger_Data_Science_Resume.pdf" width="100%" height="900px"></iframe>

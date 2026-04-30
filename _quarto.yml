@@ -9,10 +9,13 @@ website:
     right:
       - href: cgrp_project.qmd
         text: CGRP Drug Discovery Project
+      - href: resume.qmd
+        text: Resume
       - icon: github
         href: https://github.com/danigeiger
       - icon: linkedin
-        href: "https://www.linkedin.com/in/jessica-geiger-661bb2271/"
+        href: "https://www.linkedin.com/in/jessica-d-geiger"
+
         
 
 format:
