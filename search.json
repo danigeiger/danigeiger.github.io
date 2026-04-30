@@ -7,6 +7,20 @@
     "text": "I’m Jessica Geiger, a data scientist and biochemist based in the Bay Area.\nI received my Bachelor of Science in Human Physiology with a minor in Biochemistry from the University of Oregon in 2020. During my studies, I developed a strong interest in the interdisciplinary field of neuroscience and immunology, particularly related to the migraine brain.\nI began working at AstraZeneca in November 2022 in Inhalation Product Development (R&D), where I supported the processing of biologic inhalation therapies in a cleanroom environment. During my time there, I was inspired by the organization’s recognition for implementing AI-driven innovations in pharmaceutical research, which reinforced my interest in applying data science and machine learning to drug discovery.\nWhen the Inhalation Product Development (IPD) department at AstraZeneca relocated to the East Coast, I chose to pursue further training in data science and began a Master’s program at Eastern University in August 2022. I completed the program in June 2025. My final project focused on screening small molecules for in vitro candidacy as potential therapeutic agents for migraine treatment using machine learning methods.\nYou can explore the full machine learning workflow and analysis in the project notebooks on GitHub here.\nIf you’d like to interact with the model directly, you can run novel molecular formulas (SMILES) through the deployed application here.\nCurrently, I work as a long-term substitute teacher in a self-contained fourth-grade classroom. This role has strengthened my communication and adaptability while allowing me to share my enthusiasm for science and problem-solving with students.\nIf you would like to get in contact, feel free to send me an email or reach out on LinkedIn."
   },
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Data Scientist | Drug Discovery & Machine Learning | Life Sciences\nDownload Resume (PDF)\nDownload Resume (DOCX)"
+  },
+  {
+    "objectID": "resume.html#jessica-danielle-geiger",
+    "href": "resume.html#jessica-danielle-geiger",
+    "title": "Resume",
+    "section": "",
+    "text": "Data Scientist | Drug Discovery & Machine Learning | Life Sciences\nDownload Resume (PDF)\nDownload Resume (DOCX)"
+  },
+  {
     "objectID": "cgrp_project.html",
     "href": "cgrp_project.html",
     "title": "CGRP IC50 Prediction Project",
