@@ -1,14 +1,16 @@
 ---
 title: "Resume"
+toc: false
+page-layout: full
 ---
 
 ## Jessica Danielle Geiger
 
 **Data Scientist | Drug Discovery & Machine Learning | Life Sciences**
 
-[Download Resume (PDF)](static/resume/resume.pdf){.btn .btn-primary}
+[Download Resume (PDF)](/static/resume/resume.pdf){.btn .btn-primary}
 
-[Download Resume (DOCX)](static/resume/resume.docx){.btn .btn-secondary}
+[Download Resume (DOCX)](/static/resume/resume.docx){.btn .btn-secondary}
 
 <br><br>
 
