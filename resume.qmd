@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 toc: false
-page-layout: full
+page-layout: article
 ---
 
 <div style="max-width: 850px; margin: 0 auto;">
@@ -10,13 +10,15 @@ page-layout: full
 
 **Data Scientist | Drug Discovery & Machine Learning | Life Sciences**
 
-<br>
+<div style="text-align: center; margin: 40px 0 30px 0;">
 
-<div style="text-align: center; margin-bottom: 30px;">
+<a href="/static/resume/resume.pdf" download class="btn btn-primary">
+Download Resume (PDF)
+</a>
 
-[Download Resume (PDF)](/static/resume/resume.pdf){.btn .btn-primary}
-&nbsp;&nbsp;
-[Download Resume (DOCX)](/static/resume/resume.docx){.btn .btn-secondary}
+<a href="/static/resume/resume.docx" download class="btn btn-secondary" style="margin-left: 16px;">
+Download Resume (DOCX)
+</a>
 
 </div>
 
