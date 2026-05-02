@@ -23,6 +23,6 @@ format:
     theme:
       - slate
       - static/css/styles.scss
-    toc: true
+    toc: False
 
 
