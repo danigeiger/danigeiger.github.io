@@ -25,6 +25,7 @@ Master’s-trained Data Scientist with a background in human physiology and expe
 
 
 #### TECHNICAL SKILLS
+#
 
 **Programming & Data**  
 - Python, R, SQL  
@@ -72,13 +73,14 @@ Master’s-trained Data Scientist with a background in human physiology and expe
 - Collaborated with directors and process engineers to troubleshoot variability and meet target specifications, enabling development of a safe and effective clinical formulation  
 
 #### PROJECTS
-CGRP Drug Discovery Capstone Project (Github)
-Developed an end-to-end machine learning pipeline to predict small molecule inhibitory activity (IC50) against the CGRP receptor using bioactivity data from ChEMBL
-Engineered 800+ molecular fingerprint features and applied variance threshold feature selection and PCA
-Built a reproducible preprocessing pipeline and deployed a Streamlit application for real-time predictions
+**CGRP Drug Discovery Capstone Project ([Github](https://github.com/danigeiger/CGRP_project))**  
+
+- Developed an end-to-end machine learning pipeline to predict small molecule inhibitory activity (IC50) against the CGRP receptor using bioactivity data from ChEMBL  
+- Engineered 800+ molecular fingerprint features and applied variance threshold feature selection and PCA  
+- Built a reproducible preprocessing pipeline and deployed a Streamlit application for real-time predictions
 
 #### EDUCATION & CERTIFICATIONS
-AWS Certified Cloud Practitioner 
-M.S. Data Science – Eastern University (2025)
-B.S. Human Physiology (Minor: Biochemistry) – University of Oregon (2020)
+- AWS Certified Cloud Practitioner  
+- M.S. Data Science – Eastern University (2025)  
+- B.S. Human Physiology (Minor: Biochemistry) – University of Oregon (2020)
 
